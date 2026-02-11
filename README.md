@@ -21,7 +21,9 @@ A console-based Quiz Application built using **Core Java** demonstrating Object-
 
 ## 📂 Project Structure
 ├── Question.java # Represents a quiz question
+
 ├── QuizService.java # Quiz logic and evaluation
+
 └── QuizApp.java # Main entry point
 
 
@@ -30,19 +32,21 @@ A console-based Quiz Application built using **Core Java** demonstrating Object-
 ## 📥 How to Run
 1. Clone the repository
 
-
+```bash
 git clone https://github.com/klvnakhila/Java-Quiz-Management-System-using-oops.git
+```
 
 2. Compile Java files
 
-
+```bash
 javac *.java
+```
 
 3. Run the quiz
 
-
+```bash
 java QuizApp
-
+```
 
 ---
 
